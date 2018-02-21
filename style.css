@@ -1,0 +1,24 @@
+* {
+    font-size: 20px;
+    background-color: #011a4f;
+    color: white;
+}
+
+form {
+    align-content: center !important;
+}
+
+input {
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    padding: 4px;
+}
+
+label {
+    align-content: center;
+}
+
+button {
+    size: 60px;
+}
